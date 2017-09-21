@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <body>
+    <h1> My Favorite SSongs</h1>
+    <br>
+    <h2>Top Ten</h2>" 
+    
+<table border= "1">
+<tr>
+
+<th>Name</th>
+<th>Artist</th>
+<th>Genre</th>
+<th>Rating</th>
+     </tr>
+     
+<tr>
+   <td>BetterByNow</td>
+   <td> Ritual</tb>
+   <td> Indie</tb>
+   <td> ***** </tb>
+   </tr>
+   
+   <tr>
+     <td>SweetChildO'Mine</td>
+     <td> GunsN'Roses</tb>
+     <td> Rock and Roll</tb>
+     <td> ***** </tb>
+     </tr>
+     
+ <tr>
+     <td>ParadiseCity</td>
+     <td> GunsN'Roses</tb>
+     <td> Rock and ROll</tb>
+     <td> ***** </tb>
+     </tr>
+
+  <body>
+    <!--  Page content goes here -->
+  </body>
+
+</html>
