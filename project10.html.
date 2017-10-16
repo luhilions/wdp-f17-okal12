@@ -1,4 +1,20 @@
-#text {
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+  
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    
+    <title> My Favorite Animals</title>
+    
+    <style type="text/css>"
+ 
+
+  
+    #text {
   width: 300px;
   background-color: lightblue;
   height: 200px;
@@ -7,4 +23,29 @@
   padding-left: 10px;
   padding-right: 10px;
   border: 6px dashed brown;
+  }
+  
+    .picture {
+      width: 310px;
+      height: 200px;
+      border: 6px inset wheat;
+      }
+     
+   .boldunderline {
+      font-wieght: bold;
+      text-decoration: underline;
+      }
+      
+      #allcontent {
+        width: 500px;
+        height: 500px;
+        border: 1px red;
+        color: blue;
+        background-color: yellow;
+          }
+          
+          </style>
+        </head>
+        
+        
  
