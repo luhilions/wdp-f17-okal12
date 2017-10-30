@@ -3,21 +3,53 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Page Title Goes Here</title>
-  </head>
-
-  <body>
-    <!--  Page content goes here -->
-  </body>
-
-</html>
-
-  div {
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <title> Web Colors </title>
+      <style type="text/css">
+    div {
     width: 100px;
     height: 30px;
     border: 1px solid black black;
-    border: 0px 0px 10px 25px;
- }
+    margin: 0px 0px 10px 25px;
+    text-align: center;
+    padding: 0px 0px 10px;
+    }
+      body{
+        background-color: #F5DEB3
+        }
+        
+       h1{
+       color: #2E8B57
+       }
+       
+       
+        </style>
+        
+       </head>
+       
+       <body>
+       
+        <div style="background-color:#DC143C;".
+      <p>
+            #DC143
+            </p>
+      </div>
+      
+        <div style="background-color:#DA70D6
+      <p>
+            #DA70D6
+            </p>
+       </div>
+        
+          <div style="background-color:#456789;">
+          
+        <p>
+          #456789
+            </p>
+            </div>
+      
+            
+            
+            
  
  
