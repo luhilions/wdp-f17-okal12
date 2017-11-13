@@ -15,33 +15,28 @@
 } 
 .jackclub {
  position: absolute;
- top: 40px;
+ top: 100px;
  left: 110px;
- z-index: 1;
+ z-index: 4;
 } 
-.gradient {
- position: absolute;
- top: 40px;
- left: 110px;
- z-index: 1;
-} 
+
 .kingspades {
  position: absolute;
- top: 40px;
+ top: 60px;
  left: 110px;
- z-index: 1;
+ z-index: 2;
 }
 .queenhearts {
 position: absolute;
- top: 40px;
+ top: 80px;
  left: 110px;
- z-index: 1;
+ z-index: 3;
 }
 .tendiamonds {
  position: absolute;
- top: 40px;
+ top: 120px;
  left: 110px;
- z-index: 1;
+ z-index: 5;
 } 
 .gradient {
  background-image: url('../images/gradient.jpg');
