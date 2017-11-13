@@ -37,6 +37,12 @@ position: absolute;
  left: 110px;
  z-index: 1;
 }
+.tendiamonds
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+} 
 
 
 
